@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalmern&label=Profile%20views&color=0e75b6&style=flat" alt="bilalmern" /> </p>
 
-- 🔭 I’m currently pursuing **Full Stack Development**
+- 🔭 I’m currently pursuing **Full Stack Web Development**
 
 - 🌱 I’m currently learning **Node js and improving my javaScript skills**
 
