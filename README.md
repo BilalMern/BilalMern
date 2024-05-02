@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHYyj4QVLL5Mw/profile-displaybackgroundimage-shrink_350_1400/0/1714640426599?e=1720051200&v=beta&t=PmGAHOvy2mKEielVshKqAVwF2BkEqTuQeZk1_fEy30I)
 <h3>About Me 🙋‍♂️</h3>
 <hr/>
 <p>I am a Computer Science graduate. Programming excites me and I'm a well disciplined Software developer with a strong foundation in HTML, CSS, JavaScript and React. I like to delving into the core concepts by which I'm able to deliver high-quality code and provide value by leveraging my skills and bring new value to the table.</p>
