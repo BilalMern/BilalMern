@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQGBR_nhOH4Gnw/profile-displaybackgroundimage-shrink_350_1400/0/1714763203905?e=1720051200&v=beta&t=Z-dtJvQKfwEMZKlkr-Oj2uIe-i4fgZcVr_wg0vp2jNw)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGenVJ_Pi2V4Q/profile-displaybackgroundimage-shrink_350_1400/0/1714764546040?e=1720656000&v=beta&t=Vars9KXsBqtkgEEwEAMpMapY_zF771c5gGlfmkNqfoM)
 <h3>About Me 🙋‍♂️</h3>
 <hr/>
 <p>I am a Computer Science graduate. Programming excites me and I'm a well disciplined Software developer with a strong foundation in HTML, CSS, JavaScript and React. I like to delving into the core concepts by which I'm able to deliver high-quality code and provide value by leveraging my skills and bring new value to the table.</p>
