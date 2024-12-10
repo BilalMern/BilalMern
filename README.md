@@ -1,7 +1,7 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQEJEmQ4EXioAA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348226456?e=1730937600&v=beta&t=QFmLaoQiCdyjdeaHLlcHHYIZzBPF-ERJbjCu6cMh1Vk)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFHCvC4P3oiGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727435843461?e=1739404800&v=beta&t=hubOcxvN1HtdkIfgIkmmRpVFJox3X8dSjdTuEZzxF2Y)
 <h3>About Me 🙋‍♂️</h3>
 <hr/>
-<p>I am a Computer Science graduate. Programming excites me and I'm a well disciplined Software developer with a strong foundation in HTML, CSS, JavaScript and React. I like to delving into the core concepts by which I'm able to deliver high-quality code and provide value by leveraging my skills and bring new value to the table.</p>
+<p>A Software Engineer who creates scalable applications with a focus on JavaScript Development. I have developed a solid understanding of web technologies and design principles. My journey in web development has taught me the importance of writing maintainable and efficient code. With a strong focus on best practices and a commitment to continuous learning, I am looking for a challenging technical track career in an innovative and exellent application development environment.</p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -25,9 +25,6 @@
 
 
 
-<h4>My GitHub Stats <br />
-<hr />  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bilalmern&" alt="bilalmern" / ></p>
 
 
 
