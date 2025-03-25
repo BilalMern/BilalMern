@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFHCvC4P3oiGA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1727435843461?e=1747267200&v=beta&t=seenrHP8aGMTCV-Xohj3zkIKRUR7B3l2s-Y4msCwwAo)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQHnhOE3om-Dhw/profile-displaybackgroundimage-shrink_350_1400/B4DZXNM6z8HYAY-/0/1742904472731?e=1748476800&v=beta&t=vkDf2uN4H3URpj5wM_T6qAivgvsqHF7f9IjRt9WH2y0)
 <h3>About Me 🙋‍♂️</h3>
 <hr/>
 <p>A Software Engineer who creates scalable applications with a focus on JavaScript Development. I have developed a solid understanding of web technologies and design principles. My journey in web development has taught me the importance of writing maintainable and efficient code. With a strong focus on best practices and a commitment to continuous learning, I am looking for a challenging technical track career in an innovative and exellent application development environment.</p>
