@@ -3,7 +3,6 @@
 <hr/>
 <p>A Software Engineer who creates scalable applications with a focus on JavaScript Development. I have developed a solid understanding of web technologies and design principles. My journey in web development has taught me the importance of writing maintainable and efficient code. With a strong focus on best practices and a commitment to continuous learning, I am looking for a challenging technical track career in an innovative and exellent application development environment.</p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 ➔ I'm based in Karachi, Pakistan     
